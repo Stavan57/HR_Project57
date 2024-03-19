@@ -6,6 +6,7 @@ Transformation: Transforming data might have involved pivoting, merging, or aggr
 Creating Measures to Modify the Data
 DAX Formulas: Creating measures using DAX (Data Analysis Expressions) allows for dynamic calculations that adjust as your data or your report filters change. This is key to building a responsive and interactive dashboard.
 Custom Calculations: Measures like Year-to-Date (YTD) calculations, percentages of total, or growth rates can provide deep insights and are essential for trend analysis.
+
 *Building an Interactive Dashboard in Power BI*
 
 Visualization: Selecting the right charts and graphs is crucial for conveying your insights. Power BI offers a wide range of visualization options, from basic bar charts to more complex scatter plots or custom visuals.
